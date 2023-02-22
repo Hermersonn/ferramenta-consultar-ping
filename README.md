@@ -3,7 +3,7 @@
 ## Ferramentas 
 - Python
 - Arquivo.txt
-- Vscode
+- PyCharm
 
 ## Módulos 
 - os 
